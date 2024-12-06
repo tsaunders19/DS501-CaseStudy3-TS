@@ -7,3 +7,6 @@ In the Shiny Application the user can toggle between age group options to see th
 
 Deployed Shiny App: https://fevl8t-tiffany-saunders.shinyapps.io/bodyfat-prediction/
 
+Run in R: 
+shiny::runGitHub("DS501-CaseStudy3-TS", "tsaunders19")
+
